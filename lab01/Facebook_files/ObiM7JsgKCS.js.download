@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["VqWMw"]); }
-
-__d("XP2PVerificationDialogBaseControllerRouteBuilder",["jsRouteBuilder"],(function(a,b,c,d,e,f){a=b("jsRouteBuilder")("/p2p/verify/dialog/",Object.freeze({is_sender_flow:!1}),void 0);c=a;e.exports=c}),null);
